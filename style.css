@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+  }
+  
+  #imageInput {
+    margin: 20px 0;
+  }
+  
+  img {
+    max-width: 100%;
+    margin: 10px 0;
+  }
