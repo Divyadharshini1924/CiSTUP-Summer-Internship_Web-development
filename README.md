@@ -6,6 +6,7 @@
 1.Make sure you have Node.js and npm (Node Package Manager) installed on your system.
 2.Install Docker and Docker Compose.
 3.Navigate to the project directory.
+
 ## Create React App
 Use Create React App to quickly set up a new React project.
 
