@@ -8,7 +8,6 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your syst
 Use Create React App to quickly set up a new React project.
 
 ## Navigate to Project Directory:
- ## Enter the project directory:
  cd transportation-object-detection
      
  ## Dependencies
