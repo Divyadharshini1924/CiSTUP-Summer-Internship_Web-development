@@ -1,14 +1,16 @@
 # CiSTUP-Summer-Internship_Web-development
 
 ## INTRODUCTION:
-    I is a web-based application that enables users to upload transportation-related images (such as traffic camera images) and perform object detection on those images.
-SETUP:
+    
+   It is a web-based application that enables users to upload transportation-related images (such as traffic camera images) and perform object detection on those images.
+   
+##SETUP:
  Environment Setup:
      Make sure you have Node.js and npm (Node Package Manager) installed on your system.
- Create React App:
+## Create React App:
      Use Create React App to quickly set up a new React project.
- Open your terminal and run the following command:
+ ## Open your terminal and run the following command:
        npx create-react-app transportation-object-detection
- Navigate to Project Directory:
+ ## Navigate to Project Directory:
      Enter the project directory:
         cd transportation-object-detection
