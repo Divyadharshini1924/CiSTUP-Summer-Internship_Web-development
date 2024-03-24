@@ -1,8 +1,11 @@
 # CiSTUP-Summer-Internship_Web-development
 ## INTRODUCTION
  -> It is a web-based application that enables users to upload transportation-related images (such as traffic camera images) and perform object detection on those images.
+ 
  -> Navigating through traffic jams, monitoring road conditions, or simply staying updated on transit routes has never been easier.
+ 
  -> With TransitSnap, users have the power to upload, share, and explore transportation-related images effortlessly. 
+ 
  -> Whether it's a snapshot of a congested highway, a glimpse of a bustling subway station, or even updates from traffic cameras, our platform provides a comprehensive visual insight into the transportation landscape.
    
 ## SETUP
